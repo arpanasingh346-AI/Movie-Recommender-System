@@ -1,0 +1,9 @@
+[project]
+name = "movie-recommender-system-project-ml"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "pandas-stubs~=3.0.5",
+    "streamlit>=1.61.1",
+]
